@@ -16,4 +16,4 @@ The goal of the game is to reach the end of the beach as many times as you can b
 
 ## Built With
 
-* [Font Awesome](https://fontawesome.com/icons?d=gallery) - The symbols used for the cards
+* [Font Awesome](https://fontawesome.com/icons?d=gallery) - The symbols used for the boat icons
