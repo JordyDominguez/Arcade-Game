@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+    box-sizing: border-box;
+    font-family: 'Russo One', sans-serif;
+}
+
+h1 {
+	letter-spacing: 2px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+ .modal {
+    position: absolute;
+    z-index: 1;
+    display: none;
+ }
+
+ .modal-content {
+    background-color: #f4f4f4;
+    margin: 15% auto;
+    padding: 30px;
+    width: 500px;
+    height: 300px;
+    box-shadow: 0 5px 8px 0 rgba(0,0,0, 0.2), 0 7px 20px 0 rgba(0,0,0, 0.17);
+    text-align: center;
+
+    display: flex;
+	align-items: center;
+  	justify-content: center;
+
+ }
+.play-again {
+    background: #0d387c;
+    padding: 1em 2em;
+    color: #fff;
+    border: 0;
+    text-align: center;
+}
+
+.play-again:hover {
+    background: #333;
+}
+
+.score-panel {
+    text-align: left;
+    width: 480px;
+    margin-bottom: 10px;
+
+}
+
+.score-panel .boats {
+    padding: 0;
+    display: inline-block;
+    margin: 0 5px 0 0;
+}
+
+.score-panel .boats li {
+    list-style: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.score-panel p {
+    float: right;
+    font-size: 20px;
+    padding: 0;
+    margin: 0 5px 0 0;
+}
