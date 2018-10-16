@@ -1,3 +1,4 @@
+'use strict';
 let lives = 5;
 let over = false;
 let highScore = 0;
