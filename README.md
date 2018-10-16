@@ -6,6 +6,10 @@
 * [What to Expect](#what-to-expect)
 * [Built With](#built-with)
 
+## Run Game Locally
+
+Please open index.html in a browser
+
 ## Instructions
 
 Click on two cards to try to match the symbols. If they do not match the cards will shake red and then flip back over. If the cards do match the cards will pulse blue and the cards will remain out. Match all of the cards to win.
