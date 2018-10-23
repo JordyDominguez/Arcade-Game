@@ -1,4 +1,4 @@
-# Arcade Game Project (Escape Shark Beach)
+# Arcade Game (Escape Shark Beach)
 
 ## Table of Contents
 
