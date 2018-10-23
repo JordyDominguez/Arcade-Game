@@ -1,6 +1,6 @@
 # Arcade Game (Escape Shark Beach)
 
-![](Escape Shark Beach.gif)
+![](Escape-Shark-Beach.gif)
 
 ## Table of Contents
 
