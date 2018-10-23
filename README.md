@@ -1,5 +1,7 @@
 # Arcade Game (Escape Shark Beach)
 
+![](Escape Shark Beach.gif)
+
 ## Table of Contents
 
 * [Run Game Locally](#run-game-locally)
